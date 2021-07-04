@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"quizdb.subcategories"}],"uuid":"81558c1259ac46ceb00b76f7277c39bf"}
